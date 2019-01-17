@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 30vw;
+}
+
+.flex {
+  display: flex;
+}
+
+.position-center {
+  align-items: center;
+  justify-content: center;
+}
