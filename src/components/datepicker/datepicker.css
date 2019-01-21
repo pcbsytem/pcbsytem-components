@@ -145,6 +145,6 @@
 .month-input, .year-input { padding: 4px; }
 
 .separator {
-  padding-bottom: 8px;
+  padding: 4px;
   font-weight: bold;
 }
