@@ -21,8 +21,11 @@ class App extends Component {
     return (
       <div className="App flex position-center">     
         <Datepicker 
-          label="Informe a vigência" 
-          handleDate={this.handleDate} /> 
+          label="Select date" 
+          handleDate={this.handleDate} 
+          // maxDate={} 
+          // minDate={}
+        /> 
       </div>
     );
   }
